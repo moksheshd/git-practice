@@ -17,3 +17,5 @@ This is feature E.
 
 ## Feature F
 This is feature F.
+## Feature G
+This is feature G.
